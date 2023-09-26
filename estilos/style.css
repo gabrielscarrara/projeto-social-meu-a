@@ -61,5 +61,5 @@ section#redes-sociais img:hover { /* Configura, na section com id="redes-sociais
     border: 2px solid rgba(255, 255, 255, 0.601);
     transform: translate(-3px, -3px); /* Faz com que o botão se mova para o lado ao passar o mouse*/
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
-    transition: transform 0.5s, border 0.8s; /* Faz com que tenha uma transição ao passar o mouse botão se mova para o lado ao passar o mouse*/
+    transition: transform 0.5s, border 0.8s; /* Faz com que tenha uma transição de 0.5s no transoform, e de 0.8s na borda, ao passar o mouse sobre o botão */
 }
